@@ -37,7 +37,7 @@ The app features several "Deposit" methods, each demonstrating a different concu
 
 
 ## 📖 Related Article
-Read the full deep-dive explanation on Medium: [Link to your Article]
+Read the full deep-dive explanation on Medium: https://medium.com/@slimaniiyassine/why-coroutines-feel-safe-but-arent-582a31ebe0d3
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
